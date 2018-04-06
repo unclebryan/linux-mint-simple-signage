@@ -1,0 +1,15 @@
+1, auto login, 
+
+2, install qshutdown, lock after start?
+    setting>configure- shutdown type Shutdown, target time ___.
+    enable the target time at startup, autostart, lock after start, qshutdown at startup.
+    
+3, chromium browser--
+    add script ( chromium-browser —kiosk http://….)
+    chrome add extension super auto refresh or …. other refresh.
+    
+4, 4, hide mouse cusor — install unclutter
+
+5, Disable Screen Blanking and Screen Saver — setting — all off
+
+reboot 
